@@ -21,4 +21,5 @@ feature-1
 feature-1
 
 
->>>>>>> c62b3ce (feature-1)
+
+feature-2
